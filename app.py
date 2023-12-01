@@ -64,3 +64,4 @@ if data is not None:
 
 else:
     st.error("Failed to load data. Check the data loading logic.")
+ 
